@@ -1,6 +1,6 @@
 {
   "name": "pkg1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hrw": "^1.0.2",
+    "hrw": "^1.0.3",
     "typescript": "^4.7.4",
     "vue": "^3.2.37"
   }
